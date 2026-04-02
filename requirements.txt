@@ -1,6 +1,6 @@
 Django==4.2.27
 django-taggit==1.1.0
-Markdown==3.1.1
+Markdown==3.8.1
 psycopg2==2.8.3
 python-dotenv==0.14.0
 pytz==2019.3
